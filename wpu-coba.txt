@@ -3,4 +3,4 @@ membuat file baru di github,
 
 
 menambahkan row 5
-saya menambahkan tulisan baru di file wpu-coba ini
+row 6 diganti
